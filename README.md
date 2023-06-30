@@ -31,7 +31,7 @@ Clone from repo:
 
 After cloning is done redirect control to project folder using:
 
-    cd ./Disassembler
+    cd RISC-V-Disassembler
 
 Compile the code using:
 
