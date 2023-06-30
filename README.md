@@ -41,6 +41,8 @@ To run the application:
 
     ./Disassembler
 
+The application is made in a way to take the input from the terminal, paste the input in the format shown in the input files. Remember to put a **-1** in the last line of the input as it is what terminates the input intake.
+
 ## Features
 
 - Given a **8 digit HEX RISC-V machine code** the corresponding **RISC-V instruction** is generated 
