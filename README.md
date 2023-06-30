@@ -65,3 +65,5 @@ To run the application:
 - Sample Test cases can be found in the files **inputs.txt, inputs1.txt**.
 
 ## Documentation
+
+For the documentation of the project, please check the pdf file 'report.pdf'.
