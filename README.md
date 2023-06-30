@@ -66,4 +66,4 @@ To run the application:
 
 ## Documentation
 
-For the documentation of the project, please check the pdf file 'report.pdf'.
+For the documentation of the project, please check the pdf file *report.pdf*
